@@ -1,0 +1,30 @@
+{
+  "name": "koa-transform-path",
+  "version": "1.0.0",
+  "description": "koa transform path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunkeysun/koa-transform-path.git"
+  },
+  "keywords": [
+    "koa",
+    "path",
+    "middleware"
+  ],
+  "author": "sunkeysun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunkeysun/koa-transform-path/issues"
+  },
+  "homepage": "https://github.com/sunkeysun/koa-transform-path#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
